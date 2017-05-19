@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Quotes.Quotes">
+    <StackLayout>
+        <Label x:Name="lblQuotes"></Label>
+        <Slider x:Name="slider" Maximum="78" Minimum="6" Value="12"></Slider>
+        <Label x:Name="lblFontSize" {Binding Source="{Reference x:}"></Label>
+        <Button Text="Next" Clicked="Button_Clicked"></Button>
+    </StackLayout>
+</ContentPage>
