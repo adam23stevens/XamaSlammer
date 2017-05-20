@@ -1,0 +1,16 @@
+C:\source\repos\xamaslammer\Test\Test\Test\bin\Debug\Test.dll
+C:\source\repos\xamaslammer\Test\Test\Test\bin\Debug\Test.pdb
+C:\source\repos\xamaslammer\Test\Test\Test\bin\Debug\Xamarin.Forms.Core.dll
+C:\source\repos\xamaslammer\Test\Test\Test\bin\Debug\Xamarin.Forms.Platform.dll
+C:\source\repos\xamaslammer\Test\Test\Test\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\source\repos\xamaslammer\Test\Test\Test\bin\Debug\Xamarin.Forms.Core.pdb
+C:\source\repos\xamaslammer\Test\Test\Test\bin\Debug\Xamarin.Forms.Core.xml
+C:\source\repos\xamaslammer\Test\Test\Test\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\source\repos\xamaslammer\Test\Test\Test\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\source\repos\xamaslammer\Test\Test\Test\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\source\repos\xamaslammer\Test\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\source\repos\xamaslammer\Test\Test\Test\obj\Debug\Test.MainPage.xaml.g.cs
+C:\source\repos\xamaslammer\Test\Test\Test\obj\Debug\Test.App.xaml.g.cs
+C:\source\repos\xamaslammer\Test\Test\Test\obj\Debug\Test.dll
+C:\source\repos\xamaslammer\Test\Test\Test\obj\Debug\Test.pdb
+C:\source\repos\xamaslammer\Test\Test\Test\obj\Debug\Test.Quotes.xaml.g.cs

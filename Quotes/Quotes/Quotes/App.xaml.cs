@@ -13,7 +13,7 @@ namespace Quotes
         {
             InitializeComponent();
 
-            MainPage = new Quotes.MainPage();
+            MainPage = new Quotes();
         }
 
         protected override void OnStart()
